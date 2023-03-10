@@ -1,0 +1,11 @@
+git init - cria um respositório num diretório vazio.
+git add (nome do arquivo) - adiciona o arquivo no mapeamento do repositório
+git add. - adiciona todos os no mapeamento
+git status - mostra se em arquivos ou modificações que não pertence a um resgistro na linha do tempo
+git commit -m "mensagem" - cria um nó na linha do tempo. A mensagem atualiza o contúdo
+git config --(espaço,global,local) - usar um email para manipular repositorio
+git config(espaço) --usar o própio nome para o usuario
+git remote add origin - link copiaopd de um repositorio online 
+git push origin master - adiciona o conteúdo da máquina para o repositorio online
+git pull - ele atualiza o repositorio do PC com o conteúdo do reporitorio remoto
+
